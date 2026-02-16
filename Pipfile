@@ -9,6 +9,14 @@ torchvision = "*"
 numpy = "<1.24.0,>=1.21.0"
 mujoco = ">=2.3.0"
 robosuite = "==1.4.1"
+bddl = "*"
+easydict = "*"
+cloudpickle = "*"
+num2words = "*"
+h5py = "*"
+pyyaml = "*"
+scipy = "*"
+libero = {git = "https://github.com/Lifelong-Robot-Learning/LIBERO.git"}
 
 [dev-packages]
 
