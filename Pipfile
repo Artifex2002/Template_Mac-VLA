@@ -17,6 +17,15 @@ h5py = "*"
 pyyaml = "*"
 scipy = "*"
 libero = {git = "https://github.com/Lifelong-Robot-Learning/LIBERO.git"}
+transformers = ">=4.35.0"
+accelerate = ">=0.20.0"
+safetensors = "*"
+sentencepiece = "*"
+protobuf = "*"
+pillow = ">=9.0.0"
+opencv-python = ">=4.5.0"
+gymnasium = ">=0.28.0"
+tqdm = "*"
 
 [dev-packages]
 
