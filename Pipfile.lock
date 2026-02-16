@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "5620075b26981fd2e3cd93bc63204496271b29e5c3e60179dfde883996952266"
+            "sha256": "ccba912293e47ddc1d42b08b10e30f43b2483a641323ba84f58b838066540c5a"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -371,11 +371,6 @@
             ],
             "markers": "python_version >= '3.9'",
             "version": "==1.19.1"
-        },
-        "libero": {
-            "git": "https://github.com/Lifelong-Robot-Learning/LIBERO.git",
-            "markers": "python_version >= '3'",
-            "ref": "8f1084e3132a39270c3a13ebe37270a43ece2a01"
         },
         "llvmlite": {
             "hashes": [

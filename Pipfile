@@ -16,7 +16,6 @@ num2words = "*"
 h5py = "*"
 pyyaml = "*"
 scipy = "*"
-libero = {git = "https://github.com/Lifelong-Robot-Learning/LIBERO.git"}
 transformers = ">=4.35.0"
 accelerate = ">=0.20.0"
 safetensors = "*"
